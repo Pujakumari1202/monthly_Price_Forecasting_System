@@ -72,7 +72,7 @@ The model performance is evaluated using:
 Monthly_Price_Forecasting_System/
 │
 ├── Monthly_Price_Forecasting.ipynb
-├── dataset.csv
+├── price_data.csv
 ├── model.pkl
 ├── app.py
 ├── requirements.txt
